@@ -31,3 +31,15 @@ Two projects completed through the Forage virtual experience with British Airway
 Excel, Python (pandas, scikit-learn, matplotlib), Google Colab.
 
 *The raw datasets are not included. They belong to the Forage program.*
+## Files
+
+| File | What it is |
+|---|---|
+| `BA_Lounge_Eligibility_Model_Task1.xlsx` | Task 1: lookup table, assumptions, seat mix, sample results and sanity check |
+| `task2_booking_prediction.ipynb` | Task 2: Python notebook (data checks, model, evaluation) |
+| `importance.png` | Task 2: which booking details mattered most |
+| `Task2_Booking_Model_Summary.pptx` | Task 2: one-slide summary for a manager |
+
+## Task 2 chart
+
+![What mattered most in predicting a booking](importance.png)
